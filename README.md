@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/SantanaAcharjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SantanaAcharjya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santanaach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanaach" height="30" width="40" /></a>
-<a href="https://hashnode.com/santana acharjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="santana acharjya" height="30" width="40" /></a>
+<a href="https://hashnode.com/SANTANA ACHARJYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="SANTANA ACHARJYA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
