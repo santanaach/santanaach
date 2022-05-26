@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/santanaach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santanaach" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santana acharjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santana acharjya" height="30" width="40" /></a>
+<a href="https://twitter.com/SantanaAcharjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SantanaAcharjya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santanaach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanaach" height="30" width="40" /></a>
 <a href="https://hashnode.com/santana acharjya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="santana acharjya" height="30" width="40" /></a>
 </p>
 
